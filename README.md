@@ -1,2 +1,3 @@
 # some-famous-websites
-learning things 
+You can visit some famous websites by just clicking on thier logos.
+Contains google,youtube,facebook,instagram,amazon,flipkart,an1
